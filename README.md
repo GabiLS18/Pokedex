@@ -4,7 +4,7 @@
 ### Este site funciona como uma Pokedéx, e exibe sobre mais de 100 pokémons diferentes: 
 
 <ul>
-  <li>Nome</li>
+  <li>Nome </li>
   <li>Tipo</li>
   <li>Imagem</li>
 </ul>
