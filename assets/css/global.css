@@ -1,7 +1,9 @@
 * {
     font-family: 'Roboto Flex', sans-serif;
     box-sizing: border-box;
+    cursor: pointer;
 }
+ 
 
 body {
     background-color: #f6f8fc;
@@ -27,3 +29,4 @@ body {
 .content h1 {
     margin: 0;
 }
+ 

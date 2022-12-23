@@ -4,6 +4,7 @@
     margin: 0;
     padding: 0;
     list-style: none;
+     
 }
 
 .normal {
@@ -114,6 +115,7 @@
     border-style: none;
     height: 70px;
     
+
 }
 
 .pagination {
@@ -133,6 +135,12 @@
     background-color: #6c79db;
     border: none;
     border-radius: 1rem;
+}
+
+.logo {
+    border-style: none;
+    height: 70px;
+
 }
 
 @media screen and (min-width: 380px) {
